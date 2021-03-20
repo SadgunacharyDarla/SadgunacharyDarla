@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SadgunacharyDarla
 - 👀 I’m interested in React Js
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Html Css Bootstrap...
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
