@@ -2,7 +2,8 @@
 - 👀 I’m interested in React Js
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- To Ping Me Just Type My Name In Google You Will Find More Info
+ 
 
 <!---
 SadgunacharyDarla/SadgunacharyDarla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
