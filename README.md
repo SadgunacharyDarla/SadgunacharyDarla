@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SadgunacharyDarla
-- 👀 I’m interested in UI Development
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning React Js And Node Js.
 - 💞️ I’m looking to collaborate on
 - To Ping Me Just Type My Name In Google You Will Find More Info
  
